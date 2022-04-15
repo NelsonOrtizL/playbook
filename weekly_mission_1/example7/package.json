@@ -1,0 +1,13 @@
+{
+  "name": "esm-syntax",
+  "version": "1.0.0",
+  "description": "This is a Package.json",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["JavaScript","Console"],
+  "author": "Nelson Ortiz Leal",
+  "license": "ISC"
+}
